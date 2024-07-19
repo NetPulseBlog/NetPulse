@@ -2,14 +2,13 @@
 NetPulse - blog, online edition.
 
 # Main project artifacts
-- [Backend](https://github.com/NetPulseBlog/customer-backend)
+- [Customer Backend](https://github.com/NetPulseBlog/customer-backend)
 - [Mobile App](https://github.com/NetPulseBlog/mobile-app)
 
 # Todo
-- [ ] Designing database entities
-- [ ] Designing RestAPI Methods
 - [ ] Application development on GO
 - [ ] Mobile application development using Flutter
+- [ ] Admin Panel
 
 # About
 This project was created to initially hone my skills in the new languages GO and Dart (Flutter).
