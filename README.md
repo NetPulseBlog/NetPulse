@@ -7,6 +7,7 @@ NetPulse - blog, online edition.
 
 # Todo
 - [ ] Application development on GO
+- [ ] Create an infrastructure for deploying a database and application + admin panel in one plane
 - [ ] Mobile application development using Flutter
 - [ ] Admin Panel
 
