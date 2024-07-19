@@ -5,6 +5,12 @@ NetPulse - blog, online edition.
 - [Backend](https://github.com/adametsderschopfer/NetPulse_backend)
 - [Mobile App](https://github.com/adametsderschopfer/NetPulse_mobile-app)
 
+# Todo
+- [ ] Designing database entities
+- [ ] Designing RestAPI Methods
+- [ ] Application development on GO
+- [ ] Mobile application development using Flutter
+
 # About
 This project was created to initially hone my skills in the new languages GO and Dart (Flutter).
 
