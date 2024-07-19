@@ -2,8 +2,8 @@
 NetPulse - blog, online edition.
 
 # Main project artifacts
-- [Backend](https://github.com/adametsderschopfer/NetPulse_backend)
-- [Mobile App](https://github.com/adametsderschopfer/NetPulse_mobile-app)
+- [Backend](https://github.com/NetPulseBlog/Backend)
+- [Mobile App](https://github.com/NetPulseBlog/MobileApp)
 
 # Todo
 - [ ] Designing database entities
