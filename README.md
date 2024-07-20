@@ -1,9 +1,9 @@
-# NetPulse
-NetPulse - blog, online edition.
+# Blog NetPulse
+Blog NetPulse - blog, online edition.
 
 # Main project artifacts
-- [Customer Backend](https://github.com/NetPulseBlog/customer-backend)
-- [Mobile App](https://github.com/NetPulseBlog/mobile-app)
+- [Blog Customer Backend](https://github.com/NetPulseProjects/Blog_customer-backend)
+- [Blog Mobile App](https://github.com/NetPulseProjects/Blog_mobile-app)
 
 # Todo
 - [ ] Application development on GO
